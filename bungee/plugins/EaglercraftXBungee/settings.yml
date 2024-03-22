@@ -1,4 +1,4 @@
-server_name: 'EaglercraftXBungee Server'
+server_name: 'DragonRealm'
 server_uuid: 85284b1b-0fcc-48f6-af75-d02360f59775
 websocket_connection_timeout: 15000
 websocket_handshake_timeout: 5000
@@ -7,7 +7,7 @@ download_vanilla_skins_to_clients: true
 valid_skin_download_urls:
  - 'textures.minecraft.net'
 uuid_lookup_ratelimit_player: 50
-uuid_lookup_ratelimit_global: 175
+uuid_lookup_ratelimit_global: 175Drag
 skin_download_ratelimit_player: 1000
 skin_download_ratelimit_global: 30000
 skin_cache_db_uri: 'jdbc:sqlite:eaglercraft_skins_cache.db'

@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&6An EaglercraftX server'
+  - '&b&oDragonRealm &klf you know this you will be OPED'
   allow_motd: true
   allow_query: true
   request_motd_cache:
@@ -45,7 +45,7 @@ listener_01:
       exceptions:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
-    motd:
+    motd: '&b&oDragonRealm &klf you know this you will be OPED'
       enable: false
       period: 30
       limit: 5
